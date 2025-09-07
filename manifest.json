@@ -1,6 +1,6 @@
 {
   "name": "UndesirableCompany_Modpack",
-  "version_number": "0.1.0",
+  "version_number": "0.1.1",
   "website_url": "https://github.com/Turkeysteaks/UndesirableCompany",
   "description": "A modpack made for my friends and I. QoL changes and fixes, lots of new interiors and a little extra content.",
   "dependencies": [
@@ -78,7 +78,7 @@
     "MrKixcat-Shatteredrooms-2.1.0",
     "fumiko-CullFactory-1.7.0",
     "TamTeam-The_Dam-1.1.7",
-    "nono_t27-HeartAttack-1.0.1",
+    "Turkeysteaks-RealHeartAttack-1.0.2",
     "MelanieMelicious-MelanieMelicious_2_sToRy_ShIp__works_w_Wider_Ship_Mod-2.1.0"
   ]
 }
