@@ -1,7 +1,7 @@
 {
   "name": "UndesirableCompany_Modpack",
   "version_number": "0.1.0",
-  "website_url": "https://github.com/",
+  "website_url": "https://github.com/Turkeysteaks/UndesirableCompany",
   "description": "A modpack made for my friends and I. QoL changes and fixes, lots of new interiors and a little extra content.",
   "dependencies": [
     "BepInEx-BepInExPack-5.4.2100",
