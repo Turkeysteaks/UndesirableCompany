@@ -1,0 +1,26 @@
+<smallcaps>      BG IG, A System-Act Ally
+      Copyright<sup>(C)</sup> 2084-2108, Halden Electronics Inc.
+<mspace=0.6em>
+CPU Type:         BORGSON<sup>TM</sup> 400 CPU at 121.5 MHz
+Memory test:      6942069K OK
+
+Booty Distributioner Applicant v5.E1B008
+Copyright<sup>(C)</sup> 2107 Distributioneer Ltd.
+    Detecting Sting X Turbinium RAM
+    Deticting Web LNV Extender
+    Dickiting Heartbeats NOT OK
+
+
+UTGF Device Listening...    Borked
+
+Body    ID       Neuter       Device       Zero
+_____________________________________________________
+
+2       52       Jo152        H515         All
+2       52       Sa5155       H515         Your
+2       52       Sigurd       H515         Base
+2       52       Eri510       H515         Are
+1       36       Ell567       H515         Belong
+0       36       Jos912       H515         To Us
+</mspace>
+</smallcaps>

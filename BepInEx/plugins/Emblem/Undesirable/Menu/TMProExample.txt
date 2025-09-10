@@ -1,0 +1,21 @@
+<size=36><align=center><b>Undesirable Company</b></align></size>
+
+Visit https://github.com/Turkeysteaks/UndesirableCompany for more details on the modpack.
+
+<size=24><align=center><b>What's new?</b></align></size>
+
+- Recreated the Heart Attack mod (config now available)
+
+<size=24><align=center><b>Description</b></align></size>
+
+A simple modpack made for fun. Primarily for personal use, but let me know if there are any particular changes you'd like or if anything is bugged or outdated and I'll look into it.
+
+<align=center>I hope you enjoy!</align>
+
+Links:
+<indent=10>Thunderstore:   <u>https://thunderstore.io/c/lethal-company/p/Turkeysteaks/UndesirableCompany_Modpack/</u>
+Github:         <u>https://github.com/Turkeysteaks/UndesirableCompany</u>
+<sub>(I have created the modpack, but none of the mods aside from modifying HeartAttack to be configurable.)</sub>
+Ko-Fi:          <u>https://ko-fi.com/Turkeysteaks</u></indent>
+
+All credits to original mod authors.

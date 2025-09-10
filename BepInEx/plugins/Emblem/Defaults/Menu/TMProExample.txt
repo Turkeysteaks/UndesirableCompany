@@ -1,0 +1,31 @@
+<size=36><align=center><b>TextMeshPro Format Example</b></align></size>
+
+Visit https://docs.unity3d.com/Packages/com.unity.ugui@2.0/manual/TextMeshPro/RichText.html for detailed docs on how to use TMPro formatting
+
+Waltz, bad nymph, for quick jigs vex. Sphinx of black quartz, judge my vow. How vexingly quick daft zebras jump! Pack my box with five dozen liquor jugs.
+
+<align=left>Left</align>
+<align=center>Center</align>
+<align=right>Right</align>
+
+<size=10>Font Size 10</size>
+<size=20>Font Size 20</size>
+<size=30>Font Size 30</size>
+
+<color=#ff000050>Transparent Red Text</color> <color=#00ff00>Green Text</color>
+<cspace=0.7em>Spacing</cspace> is just as important as <cspace=-0.1em>timing.</cspace>
+M<mspace=20>onospace</mspace>
+<b>Bold</b> <i>Italic</i> <u>Underlined</u> <s>Strikethrough</s>
+
+<margin=10>Margin Applied to Text</margin>
+<indent=20>Indented Text</indent>
+<line-indent=50>Indented First Line</line-indent>
+
+<sub>Subscript</sub> <sup>Superscript</sup>
+
+<noparse>Tags not <b>parsed</b></noparse>
+<rotate=45>Rotated Text</rotate>
+<smallcaps>Small Caps</smallcaps>
+<lowercase>LOWERCASE</lowercase> <uppercase>uppercase</uppercase>
+<sprite=0> Sprite Example
+
