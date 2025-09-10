@@ -1,3 +1,6 @@
+## v0.3.1
+- Actually added emblem as a dependency (d'oh)
+
 ## v0.3.0
 - Added custom suits
     - Three suits designed after my friends
