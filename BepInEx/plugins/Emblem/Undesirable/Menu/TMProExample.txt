@@ -5,6 +5,8 @@ Visit https://github.com/Turkeysteaks/UndesirableCompany for more details on the
 <size=24><align=center><b>What's new?</b></align></size>
 
 - Recreated the Heart Attack mod (config now available)
+- Added Emblem
+- Added three new suits (after my friends)
 
 <size=24><align=center><b>Description</b></align></size>
 

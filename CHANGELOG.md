@@ -1,3 +1,12 @@
+## v0.3.0
+- Added custom suits
+    - Three suits designed after my friends
+- Updated the following packages:
+    - FlipMods: TooManyEmotes
+    - MonoDetour: MonoDetour
+    - MonoDetour: MonoDetour_BepInEx_5
+    - ScienceBird: ScienceBird_Tweaks
+
 ## v0.2.0
 - Added Emblem
     - Added custom (shitty) backgrounds
