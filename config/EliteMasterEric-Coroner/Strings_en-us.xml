@@ -99,10 +99,14 @@
         <DeathBlast text="Was blown to smithereens." />
         <DeathBlast text="Became a fine dust." />
         <DeathBlast text="Became a fine red mist." />
+        <DeathBlast text="Was vaporised." />
+        <DeathBlast text="Felt nothing." />
 
         <DeathStrangulation text="Strangled to death." />
+        <DeathStrangulation text="Tightened their collar too much." />
 
         <DeathSuffocation text="Suffocated to death." />
+        <DeathSuffocation text="Forgot to breathe." />
 
         <DeathMauling text="Mauled to death." />
 
@@ -110,23 +114,32 @@
         <DeathGunshots text="Filled to the brim with bullets." />
         <DeathGunshots text="Forgot to dodge the bullets." />
         <DeathGunshots text="Should have simply dodged the bullets." />
+        <DeathGunshots text="Forgot a kevlar vest." />
+        <DeathGunshots text="Discovered they had new breathing holes." />
 
         <DeathCrushing text="Crushed to death." />
 
         <DeathDrowning text="Drowned to death." />
         <DeathDrowning text="Swimming with the fishes." />
         <DeathDrowning text="Forgot how to swim." />
+        <DeathDrowning text="Forgot to breathe." />
+        <DeathDrowning text="Drank too much water." />
+        <DeathDrowning text="Stayed hydrated." />
 
         <DeathAbandoned text="Abandoned by their coworkers." />
         <DeathAbandoned text="Found out there's no 'I' in TEAM." />
         <DeathAbandoned text="Turned out to be expendable." />
+        <DeathAbandoned text="Felt betrayed." />
+        <DeathAbandoned text="Wanted to stay out a little longer." />
 
         <DeathElectrocution text="Electrocuted to death." />
 
         <DeathKicking text="Kicked to death." />
         <DeathKicking text="Foot." />
+        <DeathKicking text="Has a foot fetish." />
 
         <DeathBurning text="Burned to death." />
+        <DeathBurning text="Stood too close to the flames." />
 
         <DeathStabbing text="Stabbed to death." />
 
@@ -152,9 +165,12 @@
         <DeathEnemyEyelessDog text="Got caught using a mechanical keyboard." />
         <DeathEnemyEyelessDog text="Wasn't quiet around an Eyeless Dog." />
         <DeathEnemyEyelessDog text="Couldn't stay silent." />
+        <DeathEnemyEyelessDog text="Forgot to mute." />
+        <DeathEnemyEyelessDog text="Just couldn't shut up." />
 
         <DeathEnemyForestGiantEaten text="Swallowed whole by a Forest Giant." />
         <DeathEnemyForestGiantEaten text="Made like a tree and died to a Forest Giant." /> <!-- TN: Make like a tree and leave. -->
+        <DeathEnemyForestGiantEaten text="Turned out to be quite tasty." />
 
         <DeathEnemyForestGiantDeath text="Crushed under a dying Forest Giant." /> <!-- TN: Forest Giants crush nearby players as they play their death animation. -->
         <DeathEnemyForestGiantDeath text="Stood too close to a dying Forest Giant." />
@@ -227,6 +243,8 @@
         <DeathEnemyMaskedPlayerVictim text="Became a tragedy at the hands of the Mask." /> <!-- TN: A reference to the Tragedy Mask that transforms players who pick it up. -->
         <DeathEnemyMaskedPlayerVictim text="Stabbed by an Imposter." /> <!-- TN: Among Us reference -->
         <DeathEnemyMaskedPlayerVictim text="Died to the imposter among us." /> <!-- TN: Among Us reference -->
+        <DeathEnemyMaskedPlayerVictim text="Spoke too soon." />
+        <DeathEnemyMaskedPlayerVictim text="Made a new friend." />
 
         <DeathEnemyNutcrackerKicked text="Was kicked to death by a Nutcracker." /> <!-- TN: Used when a Nutcracker kills a player that happens to walk in its path -->
         <DeathEnemyNutcrackerKicked text="Got their nuts cracked by a Nutcracker." />
@@ -234,6 +252,7 @@
         <DeathEnemyNutcrackerShot text="Got shot by a Nutcracker." /> <!-- TN: Used when a nutcracker -->
         <DeathEnemyNutcrackerShot text="Was at the wrong end of a 21-gun salute." />
         <DeathEnemyNutcrackerShot text="Went the way of Old Yeller." /> <!-- Taken out back and shot like Old Yeller, A saying spawned from the 1957 Disney movie "Old Yeller" -->
+        <DeathEnemyNutcrackerShot text="Stayed too still." />
 
         <!-- 
             TN: v50 Enemy Death Messages
@@ -285,6 +304,8 @@
         <DeathEnemyManeater text="Was mauled by a Maneater." />
         <DeathEnemyManeater text="Dropped the baby." />
         <DeathEnemyManeater text="Was a bad parent." />
+        <DeathEnemyManeater text="Tried to show the Maneater the light." />
+        <DeathEnemyManeater text="Should have just paid child support." />
 
         <!--
             TN: v70 Enemy Death Messages
@@ -305,6 +326,7 @@
         <DeathPlayerJetpackGravity text="Fell while using a jetpack." /> <!-- TN: Message used when the player dies of fall damage while holding a jetpack. -->
         <DeathPlayerJetpackGravity text="Flew too close to the sun." /> <!-- TN: Reference to Icarus of Greek mythology -->
         <DeathPlayerJetpackGravity text="Ran out of fuel." />
+        <DeathPlayerJetpackGravity text="Really regretted that." />
 
         <DeathPlayerJetpackBlast text="Blew up while using a Jetpack." /> <!-- TN: Message used when the player uses the jetpack too long and it explodes. -->
         <DeathPlayerJetpackBlast text="Turned into a firework." />
@@ -316,6 +338,11 @@
         <DeathPlayerMurderShovel text="Had their grave dug by a coworker." />
         <DeathPlayerMurderShovel text="A coworker dug their grave." />
         <DeathPlayerMurderShovel text="Workplace disagreements." />
+        <DeathPlayerMurderShovel text="Was a victim of workplace harrassment." />
+        <DeathPlayerMurderShovel text="Was betrayed." />
+        <DeathPlayerMurderShovel text="Shovel'd." />
+        <DeathPlayerMurderShovel text="Should have listened." />
+        <DeathPlayerMurderShovel text="Forgot to say their manners." />
 
         <DeathPlayerMurderStopSign text="Was beaten with a Stop Sign by a coworker." /> <!-- TN: Used when a player kills another player with a stop/yield sign. -->
         <DeathPlayerMurderStopSign text="Was the victim of a murder." />
@@ -332,6 +359,8 @@
         <DeathPlayerMurderYieldSign text="Got beaten to death by a coworker." />
         <DeathPlayerMurderYieldSign text="Failed to yield to a coworker." />
         <DeathPlayerMurderYieldSign text="Interpersonal conflicts." />
+        <DeathPlayerMurderYieldSign text="Was a victim of workplace harrassment." />
+        <DeathPlayerMurderYieldSign text="Was betrayed." />
 
         <DeathPlayerMurderKnife text="Was stabbed to death by a coworker." /> <!-- TN: Used when a player kills another player with a knife. -->
         <DeathPlayerMurderKnife text="Was the victim of a murder." />
@@ -339,6 +368,8 @@
         <DeathPlayerMurderKnife text="Got backstabbed by a coworker." />
         <DeathPlayerMurderKnife text="Gutted like a cornish game hen." /> <!-- TN: Team Fortress 2 reference -->
         <DeathPlayerMurderKnife text="Personality conflicts." />
+        <DeathPlayerMurderKnife text="Was a victim of workplace harrassment." />
+        <DeathPlayerMurderKnife text="Was betrayed." />
 
         <DeathPlayerMurderShotgun text="Was shot to death by a coworker." /> <!-- TN: Used when a player kills another player with the Nutcracker's shotgun. -->
         <DeathPlayerMurderShotgun text="Was the victim of a murder." />
@@ -346,6 +377,9 @@
         <DeathPlayerMurderShotgun text="Got one-pumped by a coworker." />
         <DeathPlayerMurderShotgun text="Got 360-noscoped by a coworker." /> <!-- TN: Call of Duty reference -->
         <DeathPlayerMurderShotgun text="Forgot they weren't the one with the gun." />
+        <DeathPlayerMurderShotgun text="Was a victim of workplace harrassment." />
+        <DeathPlayerMurderShotgun text="Was betrayed." />
+        <DeathPlayerMurderShotgun text="Was another statistic for the company." />
 
         <DeathPlayerElectricChair text="Got shocked by an Electric Chair." /> <!-- TN: If a player sits in the electric chair and there is a power surge, they die. -->
         <DeathPlayerElectricChair text="Was sentenced to death by Electric Chair." />
@@ -353,25 +387,30 @@
 
         <DeathPlayerLadder text="Got crushed by an Extension Ladder." /> <!-- TN: Used when a player stands underneath an Extension Ladder and gets crushed. -->
         <DeathPlayerLadder text="Was squashed by an Extension Ladder." />
+        <DeathPlayerLadder text="Walked under a ladder." />
 
         <DeathPlayerQuicksand text="Got stuck in quicksand." />
         <DeathPlayerQuicksand text="Suffocated in quicksand." />
+        <DeathPlayerQuicksand text="Drowned in quicksand. Lol." />
+        <DeathPlayerQuicksand text="Ate too much sand." />
 
         <DeathPlayerStunGrenade text="Held a Stun Grenade for too long." /> <!-- TN: Yes, the stun grenade can do damage, but only if you're holding it when it goes off. -->
         <DeathPlayerStunGrenade text="Was absolutely stunning." />
         <DeathPlayerStunGrenade text="Blinded by the light." />
         <DeathPlayerStunGrenade text="Forgot you should throw grenades." />
+        <DeathPlayerStunGrenade text="Kept on cooking." />
 
         <DeathPlayerEasterEgg text="Got blown up by an Easter Egg." />
         <DeathPlayerEasterEgg text="Had an Easter Egg thrown at them." />
         <DeathPlayerEasterEgg text="Got scrambled by an Egg." />
-        <!-- <DeathPlayerEasterEgg text="Egg'd." /> --> <!-- TN: Not sure I'm feeling this one. -->
+        <DeathPlayerEasterEgg text="Egg'd." /> <!-- TN: Not sure I'm feeling this one. (I am) -->
 
         <DeathPlayerCruiserDriver text="Blew up the Company Cruiser." /> <!-- TN: Occurs on explosion or severe impacts while in the driver seat. -->
         <DeathPlayerCruiserDriver text="Got rear-ended by a woman in scrubs." /> <!-- TN: Classic EliteMasticEric reference. -->
         <DeathPlayerCruiserDriver text="Totalled company property." />
         <DeathPlayerCruiserDriver text="Reckless driving." />
         <DeathPlayerCruiserDriver text="Drunk at the wheel." />
+        <DeathPlayerCruiserDriver text="Forgot to take it off park." />
 
         <DeathPlayerCruiserPassenger text="Got blown up by the Company Cruiser." /> <!-- TN: Occurs on explosion or severe impacts while in the passenger seat. -->
         <DeathPlayerCruiserPassenger text="Got rear-ended by a woman in scrubs." /> <!-- TN: Classic EliteMasterEric reference. -->
@@ -397,15 +436,18 @@
 
         <!-- Unknown/generic pits. -->
         <DeathPitGeneric text="Fell into a pit." />
+        <DeathPitGeneric text="Sucks at parkour." />
 
         <!-- TN: Jumped the railing and died in the Facility layout, outside the split catwalk. -->
         <DeathPitFacilityPit text="Fell into a pit in the Facility." />
         <DeathPitFacilityPit text="Jumped the railing and fell." />
+        <DeathPitFacilityPit text="Should have been looking down." />
 
         <!-- TN: Died to the famous split catwalk in the Facility layout. -->
         <DeathPitFacilityCatwalkJump text="Tried to jump across the catwalk." />
         <DeathPitFacilityCatwalkJump text="Took a leap of faith, and lost." />
         <DeathPitFacilityCatwalkJump text="Tried to make THAT jump, you know the one." />
+        <DeathPitFacilityCatwalkJump text="Sucked at parkour." />
 
         <!-- TN: Died in the Mines by falling down the elevator shaft. -->
         <DeathPitMineElevator text="Fell down the elevator shaft." />
@@ -425,11 +467,13 @@
         <DeathOtherDepositItemsDesk text="Was put on disciplinary leave." />
 
         <DeathOtherLandmine text="Stepped on a landmine." />
+        <DeathOtherLandmine text="Was failed by their friend in the ship." />
 
         <DeathOtherTurret text="Got shot by a turret." />
         <DeathOtherTurret text="Brought a shovel to a turret fight." /> <!-- TN: Knife to a gun fight -->
         <DeathOtherTurret text="Swiss cheesed." /> <!-- TN: Shoot someone so full of holes they resemble a slice of Emmental cheese -->
         <!-- <DeathOtherTurret text="Turned into swiss cheese." /> -->
+        <DeathOtherTurret text="Was failed by their friend in the ship." />
 
         <DeathOtherLightning text="Was struck by lightning." />
         <DeathOtherLightning text="Invoked the wrath of Zeus." />
@@ -448,6 +492,7 @@
         <DeathOtherOutOfBounds text="Fell out of the world." />
         <DeathOtherOutOfBounds text="Noclipped into the Backrooms." />
         <DeathOtherOutOfBounds text="Visited the void." />
+        <DeathOtherOutOfBounds text="Was tired of this world." />
 
         <DeathUnknown text="Died somehow." />
         <DeathUnknown text="Most sincerely dead." /> <!-- TN: Wizard of Oz reference -->
@@ -457,5 +502,8 @@
         <DeathUnknown text="Gone AWOL." />
         <DeathUnknown text="M.I.A." />
         <DeathUnknown text="Unauthorized absence." />
+        <DeathUnknown text="Perhaps had a heart attack." />
+        <DeathUnknown text="To shreds, you say?" />
+
     </strings>
 </base>

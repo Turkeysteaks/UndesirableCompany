@@ -1,3 +1,30 @@
+## v0.4.0
+- Added the following packages, focusing primarily on fixes and interiors:
+    - Entity378: Lethal_Doors_Fixed (die upon closing ship doors)
+    - sfDesat: Celestial_Tint (to make ShipWindows look nicer)
+    - bcs4313: Lethal_Nuke (adds in a f***ing nuke)
+    - ButteryStancakes: Chameleon
+    - ButteryStancakes: ButteryFixes
+    - ButteryStancakes: EnemySoundFixes
+    - ButteryStancakes: MeleeFixes
+    - Zaggy1024: PathfindingLagFix
+    - New interiors:
+        - Beaniebe: Liminal_House
+        - Beaniebe: Deepcore_Mines
+        - Beaniebe: Vehicle_Hangar
+        - MrKixcat: Junkrooms
+        - Sniper1_1: CabIn
+        - Tolian: Hadal_Laboratories
+        - Tolian: Tomb
+        - mborsh: Habitat_Interior
+        - Teaisnt: CharlottesLabyrinth (also has custom moon)
+        - MelanieMelicious: Melanie_Interiors_MelanieMelicious (contains Museum and Mausoleum)
+- Updated the following packages:
+    - MonoDetour: MonoDetour
+    - MonoDetour: MonoDetour_BepInEx_5
+- Slightly updated one of the custom suits
+- Updated almost every config. Mostly with minor changes. Check the github for specifics.
+
 ## v0.3.1
 - Actually added emblem as a dependency (d'oh)
 

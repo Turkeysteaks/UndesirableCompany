@@ -1,6 +1,6 @@
 {
   "name": "UndesirableCompany_Modpack",
-  "version_number": "0.3.1",
+  "version_number": "0.4.0",
   "website_url": "https://github.com/Turkeysteaks/UndesirableCompany",
   "description": "A modpack made for my friends and I. QoL changes and fixes, lots of new interiors and a little extra content.",
   "dependencies": [
@@ -20,8 +20,8 @@
     "qwbarch-Mirage-1.26.0",
     "ScienceBird-ScienceBird_Tweaks-4.4.6",
     "LethalCompanyModding-VertexLibrary-1.1.0",
-    "MonoDetour-MonoDetour-0.6.15",
-    "MonoDetour-MonoDetour_BepInEx_5-0.6.15",
+    "MonoDetour-MonoDetour-0.6.16",
+    "MonoDetour-MonoDetour_BepInEx_5-0.6.16s",
     "Evaisa-HookGenPatcher-0.0.5",
     "mattymatty-Matty_Fixes-1.1.35",
     "Evaisa-LethalLib-1.1.1",
@@ -81,6 +81,23 @@
     "Turkeysteaks-RealHeartAttack-1.0.2",
     "MelanieMelicious-MelanieMelicious_2_sToRy_ShIp__works_w_Wider_Ship_Mod-2.1.1",
     "Darkbrewery-Emblem-1.6.4",
-    "Entity378-Lethal_Doors_Fixed-1.2.0"
+    "Entity378-Lethal_Doors_Fixed-1.2.0",
+    "sfDesat-Celestial_Tint-1.5.2",
+    "Beaniebe-Liminal_House-1.0.8",
+    "MrKixcat-Junkrooms-3.1.0",
+    "Sniper1_1-CabIn-0.2.3",
+    "Tolian-Hadal_Laboratories-0.1.0",
+    "Tolian-Tomb-0.3.2",
+    "mborsh-Habitat_Interior-1.1.2",
+    "bcs4313-Lethal_Nuke-1.0.1",
+    "Beaniebe-Deepcore_Mines-1.0.2",
+    "Beaniebe-Vehicle_Hangar-1.1.5",
+    "Teaisnt-CharlottesLabyrinth-1.0.3",
+    "MelanieMelicious-Melanie_Interiors_MelanieMelicious-1.1.2",
+    "ButteryStancakes-Chameleon-2.2.0",
+    "ButteryStancakes-ButteryFixes-1.14.7",
+    "ButteryStancakes-EnemySoundFixes-1.8.1",
+    "ButteryStancakes-MeleeFixes-1.4.1",
+    "Zaggy1024-PathfindingLagFix-2.2.4"
   ]
 }
