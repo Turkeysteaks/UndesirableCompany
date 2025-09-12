@@ -8,6 +8,8 @@
     - ButteryStancakes: EnemySoundFixes
     - ButteryStancakes: MeleeFixes
     - Zaggy1024: PathfindingLagFix
+    - Zehs: LCBetterSavesFix (more save slots. Honestly mostly makes it easier for me)
+    - Pooble: LCBetterSaves (dependency of above)
     - New interiors:
         - Beaniebe: Liminal_House
         - Beaniebe: Deepcore_Mines

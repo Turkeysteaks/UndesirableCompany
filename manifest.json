@@ -21,7 +21,7 @@
     "ScienceBird-ScienceBird_Tweaks-4.4.6",
     "LethalCompanyModding-VertexLibrary-1.1.0",
     "MonoDetour-MonoDetour-0.6.16",
-    "MonoDetour-MonoDetour_BepInEx_5-0.6.16s",
+    "MonoDetour-MonoDetour_BepInEx_5-0.6.16",
     "Evaisa-HookGenPatcher-0.0.5",
     "mattymatty-Matty_Fixes-1.1.35",
     "Evaisa-LethalLib-1.1.1",
@@ -98,6 +98,8 @@
     "ButteryStancakes-ButteryFixes-1.14.7",
     "ButteryStancakes-EnemySoundFixes-1.8.1",
     "ButteryStancakes-MeleeFixes-1.4.1",
-    "Zaggy1024-PathfindingLagFix-2.2.4"
+    "Zaggy1024-PathfindingLagFix-2.2.4",
+    "Zehs-LCBetterSavesFix-1.0.0",
+    "Pooble-LCBetterSaves-1.7.3"
   ]
 }
