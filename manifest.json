@@ -1,6 +1,6 @@
 {
   "name": "UndesirableCompany_Modpack",
-  "version_number": "0.4.0",
+  "version_number": "0.4.1",
   "website_url": "https://github.com/Turkeysteaks/UndesirableCompany",
   "description": "A modpack made for my friends and I. QoL changes and fixes, lots of new interiors and a little extra content.",
   "dependencies": [
@@ -100,6 +100,19 @@
     "ButteryStancakes-MeleeFixes-1.4.1",
     "Zaggy1024-PathfindingLagFix-2.2.4",
     "Zehs-LCBetterSavesFix-1.0.0",
-    "Pooble-LCBetterSaves-1.7.3"
+    "Pooble-LCBetterSaves-1.7.3",
+    "Rminin-FinallyCorrectKeys-1.6.0",
+    "Zingar-SecretLabs-3.4.5",
+    "Badham_Mods-SCPFoundationDungeon-4.3.4",
+    "mrov-NoCompanyPenalties-0.0.4",
+    "Generic_GMD-Generic_Scraps-1.0.1",
+    "XuXiaolan-ReXuvination-1.1.0",
+    "DiFFoZ-BepInEx_Faster_Load_AssetBundles_Patcher-1.0.1",
+    "Scoops-LethalSponge-1.1.10",
+    "DiFFoZ-LethalPerformance-1.2.0",
+    "DiFFoZ-HarmonyXTranspilerFix-1.1.0",
+    "AdiBTW-Loadstone-0.1.23",
+    "mattymatty-AsyncLoggers-2.1.4",
+    "OpJosMods-ReviveCompany-1.4.0"
   ]
 }

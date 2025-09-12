@@ -4,6 +4,8 @@ Visit https://github.com/Turkeysteaks/UndesirableCompany for more details on the
 
 <size=24><align=center><b>What's new?</b></align></size>
 
+- Added reviving (can't revive after teleporting)
+- Added several performance related mods
 - Recreated the Heart Attack mod (config now available)
 - Added Emblem
 - Added three new suits (after my friends)
