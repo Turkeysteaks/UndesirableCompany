@@ -3,6 +3,7 @@
     - mrov: mrovLib
     - Beaniebe: Deepcore_Mines
     - fumiko: CullFactory
+- Added LethalMoonUnlocks. Currently set to just discounts, with discounts gained upon each purchase as well as occasionally on completing a quota.
 - Added SCP related things. Theoretically, if I have config'd correctly, they should be exclusive to the 'Secret Lab' moon. I will be removing these mods if they don't play nice with the configs, as I'd rather keep the enemies fairly vanilla in most moons
     - theunknowncod3r: Scopophobia (096)
     - ProjectSCP: PSCP106
