@@ -1,6 +1,6 @@
 {
   "name": "UndesirableCompany_Modpack",
-  "version_number": "0.4.1",
+  "version_number": "0.4.2",
   "website_url": "https://github.com/Turkeysteaks/UndesirableCompany",
   "description": "A modpack made for my friends and I. QoL changes and fixes, lots of new interiors and a little extra content.",
   "dependencies": [
@@ -76,7 +76,7 @@
     "ButteryStancakes-BarberFixes-1.3.0",
     "LethalMatt-Bozoros-2.6.0",
     "MrKixcat-Shatteredrooms-2.1.0",
-    "fumiko-CullFactory-1.7.0",
+    "fumiko-CullFactory-2.0.0",
     "TamTeam-The_Dam-1.1.7",
     "Turkeysteaks-RealHeartAttack-1.0.2",
     "MelanieMelicious-MelanieMelicious_2_sToRy_ShIp__works_w_Wider_Ship_Mod-2.1.1",
@@ -90,7 +90,7 @@
     "Tolian-Tomb-0.3.2",
     "mborsh-Habitat_Interior-1.1.2",
     "bcs4313-Lethal_Nuke-1.0.1",
-    "Beaniebe-Deepcore_Mines-1.0.2",
+    "Beaniebe-Deepcore_Mines-1.0.3",
     "Beaniebe-Vehicle_Hangar-1.1.5",
     "Teaisnt-CharlottesLabyrinth-1.0.3",
     "MelanieMelicious-Melanie_Interiors_MelanieMelicious-1.1.2",
@@ -105,6 +105,7 @@
     "Zingar-SecretLabs-3.4.5",
     "Badham_Mods-SCPFoundationDungeon-4.3.4",
     "mrov-NoCompanyPenalties-0.0.4",
+    "mrov-MrovLib-0.3.6",
     "Generic_GMD-Generic_Scraps-1.0.1",
     "XuXiaolan-ReXuvination-1.1.0",
     "DiFFoZ-BepInEx_Faster_Load_AssetBundles_Patcher-1.0.1",
@@ -113,6 +114,10 @@
     "DiFFoZ-HarmonyXTranspilerFix-1.1.0",
     "AdiBTW-Loadstone-0.1.23",
     "mattymatty-AsyncLoggers-2.1.4",
-    "OpJosMods-ReviveCompany-1.4.0"
+    "OpJosMods-ReviveCompany-1.4.0",
+    "theunknowncod3r-Scopophobia-1.2.8",
+    "ProjectSCP-PSCP106-1.1.0",
+    "ProjectSCP-SCP939-1.0.1",
+    "ProjectSCP-SCP682-1.0.3"
   ]
 }

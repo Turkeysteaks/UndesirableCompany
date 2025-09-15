@@ -1,3 +1,15 @@
+## v0.4.2
+- Updated mods:
+    - mrov: mrovLib
+    - Beaniebe: Deepcore_Mines
+    - fumiko: CullFactory
+- Added SCP related things. Theoretically, if I have config'd correctly, they should be exclusive to the 'Secret Lab' moon. I will be removing these mods if they don't play nice with the configs, as I'd rather keep the enemies fairly vanilla in most moons
+    - theunknowncod3r: Scopophobia (096)
+    - ProjectSCP: PSCP106
+    - ProjectSCP: SCP939
+    - ProjectSCP: SCP682
+    - WILL add piggy's variety mod eventually, however my understanding is that it's pretty broken at the moment.
+
 ## v0.4.1
 - Added the following packages:
     - Rminin: FinallyCorrectKeys (updates key prompts to reflect keybinds)
