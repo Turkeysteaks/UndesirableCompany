@@ -206,11 +206,13 @@
         <DeathEnemySnareFlea text="Was suffocated by a Snare Flea." />
         <DeathEnemySnareFlea text="Played the role of a Black Mesa scientist." /> <!-- TN: Half-Life 1 features headcrabs. -->
         <DeathEnemySnareFlea text="A bug drowned out their cries for help." />
+        <DeathEnemySnareFlea text="Facehugged." />
 
         <DeathEnemyHygrodere text="Was absorbed by a Hygrodere." />
         <DeathEnemyHygrodere text="Got lost in the sauce." />
         <DeathEnemyHygrodere text="Had an oopsie with a Hygrodere." />
         <DeathEnemyHygrodere text="Slimed." />
+        <DeathEnemyHygrodere text="Got lost in the sauce." />
 
         <DeathEnemyHoarderBug text="Was mauled by a Hoarder Bug." />
         <DeathEnemyHoarderBug text="Was swarmed by a Hoarder Bug." />
@@ -448,6 +450,7 @@
         <DeathPitFacilityCatwalkJump text="Took a leap of faith, and lost." />
         <DeathPitFacilityCatwalkJump text="Tried to make THAT jump, you know the one." />
         <DeathPitFacilityCatwalkJump text="Sucked at parkour." />
+        <DeathPitFacilityCatwalkJump text="Should have raised their brigtness." />
 
         <!-- TN: Died in the Mines by falling down the elevator shaft. -->
         <DeathPitMineElevator text="Fell down the elevator shaft." />
@@ -468,6 +471,7 @@
 
         <DeathOtherLandmine text="Stepped on a landmine." />
         <DeathOtherLandmine text="Was failed by their friend in the ship." />
+        <DeathOtherLandmine text="Stepped on a landmine. Or stood next to someone who did." />
 
         <DeathOtherTurret text="Got shot by a turret." />
         <DeathOtherTurret text="Brought a shovel to a turret fight." /> <!-- TN: Knife to a gun fight -->
@@ -484,6 +488,7 @@
         <DeathOtherMeteor text="Found out what it's like to be a dinosaur." /> <!-- TN: Referencing the meteor that ended the Cretaceous period -->
         <DeathOtherMeteor text="Died debating whether it's a meteor or a meteorite." />
         <DeathOtherMeteor text="Hit in the head by a rock." />
+        <DeathOtherMeteor text="Went extinct." />
 
         <!--
             TN: When the player clips out of the map while in the Facility.
