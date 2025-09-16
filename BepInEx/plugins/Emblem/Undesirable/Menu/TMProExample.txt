@@ -4,11 +4,12 @@ Visit https://github.com/Turkeysteaks/UndesirableCompany for more details on the
 
 <size=24><align=center><b>What's new?</b></align></size>
 
+- Added some SCP content that (should) only get shown on the Secret Lab moon
 - Added reviving (can't revive after teleporting)
 - Added several performance related mods
 - Recreated the Heart Attack mod (config now available)
 - Added Emblem
-- Added three new suits (after my friends)
+- Added five new suits (after my friends)
 
 <size=24><align=center><b>Description</b></align></size>
 

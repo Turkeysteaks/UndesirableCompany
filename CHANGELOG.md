@@ -1,3 +1,10 @@
+## v0.4.3
+- Added two new suits (one, with one variant of it)
+- SSS now has a less bright colour, and should be wider
+- Made mimics (of both kinds) slightly more likely
+- Slightly modified backrooms patch
+- Allowed sirenhead to spawn on all moons. I will change this if it's buggy, but I've not seen him once lol
+
 ## v0.4.2
 - Updated mods:
     - mrov: mrovLib
