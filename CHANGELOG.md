@@ -1,3 +1,8 @@
+## v0.5.0
+- Replace LateCompany with LobbyControl
+- Add CustomBoomboxMusic
+- Add my custom music as above. Will take recommendations
+
 ## v0.4.4
 - Yeet custom death messages to their own (proper) file
 - Update my heart attack mod
