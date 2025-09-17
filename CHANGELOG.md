@@ -1,3 +1,6 @@
+## v0.4.4
+- Yeet custom death messages to their own (proper) file
+
 ## v0.4.3
 - Added two new suits (one, with one variant of it)
 - SSS now has a less bright colour, and should be wider
