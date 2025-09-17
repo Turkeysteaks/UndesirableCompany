@@ -1,5 +1,8 @@
 ## v0.4.4
 - Yeet custom death messages to their own (proper) file
+- Update my heart attack mod
+- Added config for heart attack
+- Update ButteryFixes and MaskFixes
 
 ## v0.4.3
 - Added two new suits (one, with one variant of it)
