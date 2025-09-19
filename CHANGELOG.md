@@ -1,3 +1,10 @@
+## v0.5.3
+- Add in Remnants (possibility for store-bought items to spawn inside). May switch this out for abandonedcompanyassets eventually.
+- Add missing configs
+- Add in more scrap (will adjust configs in future if they are spawning too frequently/infrequently)
+- Add in more moons
+- Removed a couple songs that were corrupted (sad)
+
 ## v0.5.2
 - Changed some more config settings
 - Update my heart attack mod.
