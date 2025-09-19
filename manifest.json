@@ -1,6 +1,6 @@
 {
   "name": "UndesirableCompany_Modpack",
-  "version_number": "0.5.0",
+  "version_number": "0.5.2",
   "website_url": "https://github.com/Turkeysteaks/UndesirableCompany",
   "description": "A modpack made for my friends and I. QoL changes and fixes, lots of new interiors and a little extra content.",
   "dependencies": [
@@ -65,7 +65,6 @@
     "AntlerShed-EnemySkinKit-1.4.1",
     "Magic_Wesley-Wesleys_Skins-1.0.2",
     "AudioKnight-StarlancerAIFix-3.11.1",
-    "DrinkableWater-Brutal_Company_Minus-0.13.13",
     "FutureSavior-Hold_Scan_Button-1.1.2",
     "Generic_GMD-Generic_Interiors-2.5.0",
     "MusicalSleep-SleepsDungeon-2.0.5",
@@ -78,7 +77,7 @@
     "MrKixcat-Shatteredrooms-2.1.0",
     "fumiko-CullFactory-2.0.0",
     "TamTeam-The_Dam-1.1.7",
-    "Turkeysteaks-RealHeartAttack-1.1.1",
+    "Turkeysteaks-RealHeartAttack-1.2.2",
     "MelanieMelicious-MelanieMelicious_2_sToRy_ShIp__works_w_Wider_Ship_Mod-2.1.1",
     "Darkbrewery-Emblem-1.6.4",
     "Entity378-Lethal_Doors_Fixed-1.2.0",
@@ -121,6 +120,8 @@
     "ProjectSCP-SCP682-1.0.3",
     "explodingMods-LethalMoonUnlocks-2.2.3",
     "baer1-CustomBoomboxMusic-2.3.0",
-    "baer1-LethalModUtils-0.0.5"
+    "baer1-LethalModUtils-0.0.5",
+    "baer1-ChatCommandAPI-0.2.2",
+    "Rattenbonkers-Boombox_Autonext-1.0.0"
   ]
 }

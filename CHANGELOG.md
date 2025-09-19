@@ -1,3 +1,15 @@
+## v0.5.2
+- Changed some more config settings
+- Update my heart attack mod.
+
+## v0.5.1
+- Remove BrutalCompanyMinus (for now) as it conflicts with mirage
+- Add more custom music
+- Add chat command API for use with boombox
+- Add Rattenbonkers' Boombox Autonext
+- Update my Heart Attack mod.
+- Add in some more death messages.
+
 ## v0.5.0
 - Replace LateCompany with LobbyControl
 - Add CustomBoomboxMusic

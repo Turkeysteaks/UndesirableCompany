@@ -16,6 +16,8 @@
             Generally, causes of death like bludgeoning, strangulation, and blasts will be overridden by messages specific to that type.
             These are fallbacks for when there is no specific message. Try to make these broadly applicable.
         -->
+        <DeathBludgeoning text="Beaten to death." />
+        <DeathGravity text="Succumbed to the one thing keeping us down." />
         
         <DeathBlast text="Was vaporised." />
         <DeathBlast text="Felt nothing." />
@@ -24,9 +26,14 @@
         <DeathStrangulation text="Tightened their collar too much." />
 
         <DeathSuffocation text="Forgot to breathe." />
+        
+        <DeathMauling text="Barely left a mark." />
 
         <DeathGunshots text="Forgot a kevlar vest." />
         <DeathGunshots text="Discovered they had new breathing holes." />
+
+        <DeathCrushing text="Crushed by the weight of their sins." />
+        <DeathCrushing text="Became a thin paste." />
 
         <DeathDrowning text="Forgot to breathe." />
         <DeathDrowning text="Drank too much water." />
@@ -34,10 +41,19 @@
 
         <DeathAbandoned text="Felt betrayed." />
         <DeathAbandoned text="Wanted to stay out a little longer." />
+        
+        <DeathElectrocution text="Was electrifying." />
+        <DeathElectrocution text="Found that absolutely shocking." />
+        <DeathElectrocution text="Truly shocked." />
 
         <DeathKicking text="Has a foot fetish." />
 
         <DeathBurning text="Stood too close to the flames." />
+        <DeathBurning text="Didn't stop, drop, and roll." />
+        <DeathStabbing text="Poked to death." />
+        <DeathFan text="Inspected a fan too close up." />
+        <!-- <DeathInertia text="Died to inertia." /> -->
+        <DeathSnipped text="Snip snip." />
 
         <!-- 
             TN: Enemy Death Messages
@@ -52,22 +68,22 @@
         <DeathEnemyForestGiantEaten text="Turned out to be quite tasty." />
 
         <!-- <DeathEnemyForestGiantDeath text="Crushed under a dying Forest Giant." /> TN: Forest Giants crush nearby players as they play their death animation. -->
-        <!-- <DeathEnemyCircuitBees text="Electro-stung to death by Circuit Bees." /> -->
-        <!-- <DeathEnemyGhostGirl text="Died a mysterious death." /> -->
-        <!-- <DeathEnemyEarthLeviathan text="Swallowed whole by an Earth Leviathan." /> -->
+        <DeathEnemyCircuitBees text="Was absolutely shocked by Circuit Bees." />
+        <DeathEnemyGhostGirl text="Kept saying they saw something out of the corner of their eye." />
+        <DeathEnemyEarthLeviathan text="Fully immersed themself in Dune." />
         <!-- <DeathEnemyBaboonHawk text="Was eaten by a Baboon Hawk." /> -->
         <!-- <DeathEnemyJester text="Mauled to death by a Jester." /> -->
-        <!-- <DeathEnemyCoilHead text="Mauled to death by a Coil Head." /> -->
+        <DeathEnemyCoilHead text="Blinked at the wrong time." />
 
         <DeathEnemySnareFlea text="Facehugged." />
 
         <DeathEnemyHygrodere text="Got lost in the sauce." />
 
-        <!-- <DeathEnemyHoarderBug text="Was mauled by a Hoarder Bug." /> -->
+        <DeathEnemyHoarderBug text="Just couldn't let go of their items." />
         <!-- <DeathEnemyLassoMan text="Was lassoed by a Lasso Man." /> -->
-        <!-- <DeathEnemySporeLizard text="Was bitten by a Spore Lizard." /> -->
-        <!-- <DeathEnemyBunkerSpider text="Ensnared in the Bunker Spider's web." /> -->
-        <!-- <DeathEnemyThumper text="Was ravaged by a Thumper." /> -->
+        <DeathEnemySporeLizard text="Skunked." />
+        <DeathEnemyBunkerSpider text="Should have had more arachnaphobia." />
+        <DeathEnemyThumper text="Should have just jumped over it." />
 
         <!-- 
             TN: v45 Enemy Death Messages
@@ -75,7 +91,7 @@
             Most of these enemies have multiple ways they can kill you, so make sure you don't mix them up.
         -->
 
-        <!-- <DeathEnemyMaskedPlayerWear text="Donned the Mask." /> TN: Message used when the player is transformed into a Masked Player enemy -->
+        <DeathEnemyMaskedPlayerWear text="Shouldn't be left alone with items." /> TN: Message used when the player is transformed into a Masked Player enemy
 
 
         <DeathEnemyMaskedPlayerVictim text="Spoke too soon." />
@@ -117,7 +133,7 @@
             Messages used for enemies added in v70.
         -->
 
-        <!-- <DeathEnemyGiantSapsucker text="Was stabbed by a Giant Sapsucker." /> -->
+        <DeathEnemyGiantSapsucker text="Was mistaken for a tree by the woodpecker." />
 
         <!-- 
             TN: Player Death Messages
