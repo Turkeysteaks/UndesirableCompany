@@ -1,3 +1,21 @@
+## v0.6.0
+- Fix remnant causing scrap not to despawn on party wipe. Remnant equipment should still be fine, handled by ScienceBirdFixes
+- Change Interior Title Cards config. I plan on making an image with a fancier font for each interior eventually.
+- Lower weights of some scrap and interiors.
+- Open lobby by default with LobbyControl
+- Slightly increase mirage spawn rate and talk frequency.
+- Lower Mimic and Cabinet spawn rate
+- Add wider ship and more furniture
+
+## v0.5.5
+- Move music to separate mod ([UndesirableCompany_Modpack](https://thunderstore.io/c/lethal-company/p/Turkeysteaks/UndesirableCompany_Music/)) to reduce download size of the modpack.
+- New Interior (castellum)
+- Added interior title cards (I'll cfg this later)
+
+## v0.5.4
+- Add my new CoronerSirenHead integration
+- Update Universal_Radar
+
 ## v0.5.3
 - Add in Remnants (possibility for store-bought items to spawn inside). May switch this out for abandonedcompanyassets eventually.
 - Add missing configs

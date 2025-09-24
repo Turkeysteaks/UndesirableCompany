@@ -4,6 +4,9 @@ Visit https://github.com/Turkeysteaks/UndesirableCompany for more details on the
 
 <size=24><align=center><b>What's new?</b></align></size>
 
+- Added wider ship and more furniture
+- Added custom boombox music
+- Added some coroner integrations
 - Added some SCP content that (should) only get shown on the Secret Lab moon
 - Added reviving (can't revive after teleporting)
 - Added several performance related mods
