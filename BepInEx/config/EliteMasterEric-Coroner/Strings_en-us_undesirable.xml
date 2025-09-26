@@ -18,9 +18,14 @@
         -->
         <DeathBludgeoning text="Beaten to death." />
         <DeathGravity text="Succumbed to the one thing keeping us down." />
+        <DeathGravity text="Went splat on the pavement." />
+        <DeathGravity text="Fell from a height." />
+        <DeathGravity text="Forgot their parachute." />
+        <DeathGravity text="Became a stain on the floor." />
         
         <DeathBlast text="Was vaporised." />
         <DeathBlast text="Felt nothing." />
+        <DeathBlast text="'Sploded." />
 
 
         <DeathStrangulation text="Tightened their collar too much." />
@@ -41,6 +46,7 @@
 
         <DeathAbandoned text="Felt betrayed." />
         <DeathAbandoned text="Wanted to stay out a little longer." />
+        <DeathAbandoned text="Wants new friends." />
         
         <DeathElectrocution text="Was electrifying." />
         <DeathElectrocution text="Found that absolutely shocking." />
@@ -74,15 +80,19 @@
         <!-- <DeathEnemyBaboonHawk text="Was eaten by a Baboon Hawk." /> -->
         <!-- <DeathEnemyJester text="Mauled to death by a Jester." /> -->
         <DeathEnemyCoilHead text="Blinked at the wrong time." />
+        <DeathEnemyCoilHead text="173'd." />
 
         <DeathEnemySnareFlea text="Facehugged." />
 
         <DeathEnemyHygrodere text="Got lost in the sauce." />
 
         <DeathEnemyHoarderBug text="Just couldn't let go of their items." />
+        <DeathEnemyHoarderBug text="Should've buzzed off." />
         <!-- <DeathEnemyLassoMan text="Was lassoed by a Lasso Man." /> -->
         <DeathEnemySporeLizard text="Skunked." />
         <DeathEnemyBunkerSpider text="Should have had more arachnaphobia." />
+        <DeathEnemyBunkerSpider text="Was left hanging." />
+        <DeathEnemyBunkerSpider text="Was left hanging (Get it?)." />
         <DeathEnemyThumper text="Should have just jumped over it." />
 
         <!-- 
@@ -91,7 +101,7 @@
             Most of these enemies have multiple ways they can kill you, so make sure you don't mix them up.
         -->
 
-        <DeathEnemyMaskedPlayerWear text="Shouldn't be left alone with items." /> TN: Message used when the player is transformed into a Masked Player enemy
+        <DeathEnemyMaskedPlayerWear text="Shouldn't be left alone with items." /> <!-- TN: Message used when the player is transformed into a Masked Player enemy -->
 
 
         <DeathEnemyMaskedPlayerVictim text="Spoke too soon." />
@@ -186,6 +196,8 @@
         <!-- TN: Used for falling deaths inside the facility. -->
         <!-- Unknown/generic pits. -->
         <DeathPitGeneric text="Sucks at parkour." />
+        <DeathPitGeneric text="Fell into nothingness." />
+        <DeathPitGeneric text="Forgot to look down." />
         <!-- TN: Jumped the railing and died in the Facility layout, outside the split catwalk. -->
         <DeathPitFacilityPit text="Should have been looking down." />
 
@@ -194,7 +206,7 @@
         <DeathPitFacilityCatwalkJump text="Should have raised their brigtness." />
 
         <!-- TN: Died in the Mines by falling down the elevator shaft. -->
-        <!-- <DeathPitMineElevator text="Fell down the elevator shaft." /> -->
+        <DeathPitMineElevator text="Forgot to actually call the elevator." />
         <!-- TN: Jumped the railing and died in the Mines layout, outside the split catwalk. -->
         <!-- <DeathPitMinePit text="Jumped the railing and fell." /> -->
         <!-- TN: Fell in a hole and died in the caves in the Mines layout. -->
