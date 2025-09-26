@@ -1,3 +1,12 @@
+## v0.6.1
+- Added Unreal Tournament interiors (they seem pretty cool)
+- Added my Coroner Integration mod
+- Updated RealHeartAttack and Itolib
+- Lower School weight
+- Few new death messages
+- Decreased chance to go to the Backrooms
+- Decreased chance for a heart attack
+
 ## v0.6.0
 - Fix remnant causing scrap not to despawn on party wipe. Remnant equipment should still be fine, handled by ScienceBirdFixes
 - Change Interior Title Cards config. I plan on making an image with a fancier font for each interior eventually.
