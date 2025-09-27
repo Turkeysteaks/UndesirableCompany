@@ -1,6 +1,6 @@
 {
   "name": "UndesirableCompany_Modpack",
-  "version_number": "0.6.1",
+  "version_number": "0.6.2",
   "website_url": "https://github.com/Turkeysteaks/UndesirableCompany",
   "description": "A modpack made for my friends and I. QoL changes and fixes, lots of new interiors and a little extra content.",
   "dependencies": [
@@ -69,7 +69,7 @@
     "Generic_GMD-Generic_Interiors-2.5.0",
     "MusicalSleep-SleepsDungeon-2.0.5",
     "DemonMae-Dungeons_Ultimately_Lacking_Liveliness-1.4.3",
-    "pacoito-itolib-0.4.3",
+    "pacoito-itolib-0.4.4",
     "Hardy-LCMaxSoundsFix-1.2.0",
     "LethalMatt-PlayZone-1.1.2",
     "ButteryStancakes-BarberFixes-1.3.0",
@@ -138,6 +138,6 @@
     "MelanieMelicious-MelanieMelicious_Utility_Furniture_Pack-2.0.1",
     "mborsh-Wider_Ship_Mod-1.4.3",
     "DemonMae-ut99_interiors-1.12.2",
-    "Turkeysteaks-CoronerIntegrations-0.1.0"
+    "Turkeysteaks-CoronerIntegrations-0.1.1"
   ]
 }
