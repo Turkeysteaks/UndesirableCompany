@@ -1,3 +1,6 @@
+## v0.6.2
+- Updated TooManyEmotes, Itolib and CoronerIntegrations
+
 ## v0.6.1
 - Added Unreal Tournament interiors (they seem pretty cool)
 - Added my Coroner Integration mod
