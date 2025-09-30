@@ -1,3 +1,6 @@
+## v0.7.1
+- Maybe fix coilcrabs according to monty :)
+
 ## v0.7.0 - Monsters!
 - Reduced SirenHead spawn weight even more (he was spawning every damn round)
 - Added the following:
