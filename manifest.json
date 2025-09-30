@@ -1,6 +1,6 @@
 {
   "name": "UndesirableCompany_Modpack",
-  "version_number": "0.6.3",
+  "version_number": "0.7.0",
   "website_url": "https://github.com/Turkeysteaks/UndesirableCompany",
   "description": "A modpack made for my friends and I. QoL changes and fixes, lots of new interiors and a little extra content.",
   "dependencies": [
@@ -140,6 +140,13 @@
     "DemonMae-ut99_interiors-1.12.3",
     "Turkeysteaks-CoronerIntegrations-0.3.0",
     "FlipMods-ObjectVolumeController-1.1.2",
-    "FlipMods-TooManyEmotesScrap-1.0.8"
+    "FlipMods-TooManyEmotesScrap-1.0.8",
+    "Wexop-CountryRoadCreature-1.0.7",
+    "WaterGun-Mopator-1.2.3",
+    "NomnomAB-RollingGiant-2.6.0",
+    "Ccode_lang-The_Rolling_Chair-1.0.2",
+    "SolidStone-ShockwaveDroneEnemy-0.6.3",
+    "zealsprince-Locker-1.6.1",
+    "super_fucking_cool_and_badass_team-Biodiversity-0.2.6"
   ]
 }

@@ -1,3 +1,19 @@
+## v0.7.0 - Monsters!
+- Reduced SirenHead spawn weight even more (he was spawning every damn round)
+- Added the following:
++ <details>
+    <summary>Spoiler</summary>
+
+    - CountryRoadCreature
+    - Locker
+    - Biodiversity
+    - ShockwaveDrone
+    - RollingGiant
+    - Rolling Chair
+    - Mopator
+
+    </details>
+
 ## v0.6.3
 - Updated Beanie's interiors, CullFactory, ut99_interiors and my Coroner integration
 - Added Beanie's new interior (Midnight Sanctuary)
