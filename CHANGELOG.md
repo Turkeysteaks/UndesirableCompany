@@ -1,3 +1,8 @@
+## v0.6.3
+- Updated Beanie's interiors, CullFactory, ut99_interiors and my Coroner integration
+- Added Beanie's new interior (Midnight Sanctuary)
+- Added more deathmessages.
+
 ## v0.6.2
 - Updated TooManyEmotes, Itolib and CoronerIntegrations
 

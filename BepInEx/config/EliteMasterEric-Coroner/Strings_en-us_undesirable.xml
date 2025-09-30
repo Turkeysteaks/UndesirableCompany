@@ -66,10 +66,13 @@
             These are messages for when the player is killed by a specific enemy.
             Try to keep these high quality since they will be the ones players see the most.
         -->
-        <!-- <DeathEnemyBracken text="Had their neck snapped by a Bracken." /> -->
+        <DeathEnemyBracken text="Cracked by a Bracken." />
+        <DeathEnemyBracken text="Went for a neck massage." />
+        <DeathEnemyBracken text="Found a new chiropractor." />
 
         <DeathEnemyEyelessDog text="Forgot to mute." />
         <DeathEnemyEyelessDog text="Just couldn't shut up." />
+        <DeathEnemyEyelessDog text="Made too much noise." />
 
         <DeathEnemyForestGiantEaten text="Turned out to be quite tasty." />
 
@@ -77,8 +80,8 @@
         <DeathEnemyCircuitBees text="Was absolutely shocked by Circuit Bees." />
         <DeathEnemyGhostGirl text="Kept saying they saw something out of the corner of their eye." />
         <DeathEnemyEarthLeviathan text="Fully immersed themself in Dune." />
-        <!-- <DeathEnemyBaboonHawk text="Was eaten by a Baboon Hawk." /> -->
-        <!-- <DeathEnemyJester text="Mauled to death by a Jester." /> -->
+        <DeathEnemyBaboonHawk text="Spiked by a Baboon Hawk." />
+        <DeathEnemyJester text="Wanted to hear the end of the song." />
         <DeathEnemyCoilHead text="Blinked at the wrong time." />
         <DeathEnemyCoilHead text="173'd." />
 
@@ -94,6 +97,8 @@
         <DeathEnemyBunkerSpider text="Was left hanging." />
         <DeathEnemyBunkerSpider text="Was left hanging (Get it?)." />
         <DeathEnemyThumper text="Should have just jumped over it." />
+        <DeathEnemyThumper text="Couldn't run away from the thumper fast enough." />
+        <DeathEnemyThumper text="Tried crawling from the crawler." />
 
         <!-- 
             TN: v45 Enemy Death Messages
@@ -102,13 +107,14 @@
         -->
 
         <DeathEnemyMaskedPlayerWear text="Shouldn't be left alone with items." /> <!-- TN: Message used when the player is transformed into a Masked Player enemy -->
-
+        <DeathEnemyMaskedPlayerWear text="Got too silly." />
 
         <DeathEnemyMaskedPlayerVictim text="Spoke too soon." />
         <DeathEnemyMaskedPlayerVictim text="Made a new friend." />
 
-        <!-- <DeathEnemyNutcrackerKicked text="Was kicked to death by a Nutcracker." /> TN: Used when a Nutcracker kills a player that happens to walk in its path -->
+        <DeathEnemyNutcrackerKicked text="Got in the way of a marching Nutcracker." />
         <DeathEnemyNutcrackerShot text="Stayed too still." />
+        <DeathEnemyNutcrackerShot text="Caught lacking by a Nutcracker." />
 
         <!-- 
             TN: v50 Enemy Death Messages
@@ -180,6 +186,7 @@
 
         <DeathPlayerQuicksand text="Drowned in quicksand. Lol." />
         <DeathPlayerQuicksand text="Ate too much sand." />
+        <DeathPlayerQuicksand text="Forgot to lie on their back in the quicksand." />
 
         <DeathPlayerStunGrenade text="Kept on cooking." />
 
@@ -204,6 +211,7 @@
         <!-- TN: Died to the famous split catwalk in the Facility layout. -->
         <DeathPitFacilityCatwalkJump text="Sucked at parkour." />
         <DeathPitFacilityCatwalkJump text="Should have raised their brigtness." />
+        <DeathPitFacilityCatwalkJump text="Should know not to try that split catwalk jump." />
 
         <!-- TN: Died in the Mines by falling down the elevator shaft. -->
         <DeathPitMineElevator text="Forgot to actually call the elevator." />
@@ -221,8 +229,10 @@
 
         <DeathOtherLandmine text="Was failed by their friend in the ship." />
         <DeathOtherLandmine text="Stepped on a landmine. Or stood next to someone who did." />
+        <DeathOtherLandmine text="Forgot you can disable landmines." />
 
         <DeathOtherTurret text="Was failed by their friend in the ship." />
+        <DeathOtherTurret text="Forgot you can disable turrets." />
 
         <!-- <DeathOtherLightning text="Was struck by lightning." /> -->
         <DeathOtherMeteor text="Went extinct." />
@@ -234,7 +244,7 @@
         <DeathOtherOutOfBounds text="Was tired of this world." />
 
 
-        <DeathUnknown text="Perhaps had a heart attack." />
+        <DeathUnknown text="Perhaps had an aneurysm." />
         <DeathUnknown text="To shreds, you say?" />
     </strings>
 </base>
