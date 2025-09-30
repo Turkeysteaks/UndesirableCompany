@@ -1,6 +1,6 @@
 {
   "name": "UndesirableCompany_Modpack",
-  "version_number": "0.6.2",
+  "version_number": "0.6.3",
   "website_url": "https://github.com/Turkeysteaks/UndesirableCompany",
   "description": "A modpack made for my friends and I. QoL changes and fixes, lots of new interiors and a little extra content.",
   "dependencies": [
@@ -75,7 +75,7 @@
     "ButteryStancakes-BarberFixes-1.3.0",
     "LethalMatt-Bozoros-2.6.0",
     "MrKixcat-Shatteredrooms-2.1.0",
-    "fumiko-CullFactory-2.0.0",
+    "fumiko-CullFactory-2.0.1",
     "TamTeam-The_Dam-1.1.7",
     "Turkeysteaks-RealHeartAttack-1.2.3",
     "MelanieMelicious-MelanieMelicious_2_sToRy_ShIp__works_w_Wider_Ship_Mod-2.1.1",
@@ -89,8 +89,9 @@
     "Tolian-Tomb-0.3.2",
     "mborsh-Habitat_Interior-1.1.2",
     "bcs4313-Lethal_Nuke-1.0.1",
-    "Beaniebe-Deepcore_Mines-1.0.3",
-    "Beaniebe-Vehicle_Hangar-1.1.5",
+    "Beaniebe-Deepcore_Mines-1.0.4",
+    "Beaniebe-Vehicle_Hangar-1.1.6",
+    "Beaniebe-Midnight_Sanctuary-1.0.0",
     "Teaisnt-CharlottesLabyrinth-1.0.3",
     "MelanieMelicious-Melanie_Interiors_MelanieMelicious-1.1.2",
     "ButteryStancakes-Chameleon-2.2.0",
@@ -136,8 +137,8 @@
     "lethal_coder-Interior_Title_Cards-1.3.0",
     "MelanieMelicious-MelanieMelicious_Utility_Furniture_Pack-2.0.1",
     "mborsh-Wider_Ship_Mod-1.4.3",
-    "DemonMae-ut99_interiors-1.12.2",
-    "Turkeysteaks-CoronerIntegrations-0.1.1",
+    "DemonMae-ut99_interiors-1.12.3",
+    "Turkeysteaks-CoronerIntegrations-0.3.0",
     "FlipMods-ObjectVolumeController-1.1.2",
     "FlipMods-TooManyEmotesScrap-1.0.8"
   ]
