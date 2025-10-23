@@ -1,3 +1,9 @@
+## v0.7.2
+- Many minor updates to mods, mostly due to v73 changes
+- Added SylviBlossom's TerminalConflictFix
+
+I haven't played in a little while but I'll try and playtest soon to make sure it's all working nicely with v73. Please let me know if you have any issues.
+
 ## v0.7.1
 - Maybe fix coilcrabs according to monty :)
 
