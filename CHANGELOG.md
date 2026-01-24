@@ -1,3 +1,8 @@
+## v0.7.3
+- Update BoomboxMusic (lower volume)
+- Updated MANY mods, mostly due to v73 changes. Also included some new interiors from Generic and Beaniebe I believe, and more but I'm ill and tired and realising I left this way too long. 
+Hope it all works, will playtest properly once it uploads to thunderstore
+
 ## v0.7.2
 - Many minor updates to mods, mostly due to v73 changes
 - Added SylviBlossom's TerminalConflictFix
