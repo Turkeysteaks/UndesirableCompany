@@ -13,6 +13,8 @@ Visit https://github.com/Turkeysteaks/UndesirableCompany for more details on the
 - Recreated the Heart Attack mod (config now available)
 - Added Emblem
 - Added five new suits (after my friends)
+- Added many monsters and interiors
+- CoronerIntegrations!
 
 <size=24><align=center><b>Description</b></align></size>
 
@@ -23,7 +25,7 @@ A simple modpack made for fun. Primarily for personal use, but let me know if th
 Links:
 <indent=10>Thunderstore:   <u>https://thunderstore.io/c/lethal-company/p/Turkeysteaks/UndesirableCompany_Modpack/</u>
 Github:         <u>https://github.com/Turkeysteaks/UndesirableCompany</u>
-<sub>(I have created the modpack, but none of the mods aside from modifying HeartAttack to be configurable.)</sub>
+<sub>(I have created the modpack, but none of the mods aside from modifying HeartAttack to be configurable. Also I created several integration mods with Coroner)</sub>
 Ko-Fi:          <u>https://ko-fi.com/Turkeysteaks</u></indent>
 
 All credits to original mod authors.
