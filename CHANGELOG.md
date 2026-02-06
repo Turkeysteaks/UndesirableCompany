@@ -1,3 +1,8 @@
+## v0.8.0
+- Updated several mods, mostly just small bugfixes - check manifest for specifics
+- Remember to actually update description for v73 this time
+- Finally added in custom loading screens!
+
 ## v0.7.3
 - Update BoomboxMusic (lower volume)
 - Updated MANY mods, mostly due to v73 changes. Also included some new interiors from Generic and Beaniebe I believe, and more but I'm ill and tired and realising I left this way too long. 
