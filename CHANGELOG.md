@@ -1,3 +1,7 @@
+## v0.8.1
+- Updated CoronerIntegrations (now includes LethalDoors)
+- Added new music (see UndesirableCompany_Music for specifics)
+
 ## v0.8.0
 - Updated several mods, mostly just small bugfixes - check manifest for specifics
 - Remember to actually update description for v73 this time
