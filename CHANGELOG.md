@@ -1,3 +1,7 @@
+## v0.8.2
+- Explicitly added several dependents of dependents to ensure smooth updates
+- Updated several smaller mods. Not many new features, although D.U.L.L has added a new interior.
+
 ## v0.8.1
 - Updated CoronerIntegrations (now includes LethalDoors)
 - Added new music (see UndesirableCompany_Music for specifics)
