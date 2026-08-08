@@ -1,7 +1,14 @@
 ## v0.9.0
+- Regenerated 99% of config files, and updated where relevant. This unironically has taken fucking hours.
 - Updated many, many packages
-- Removed: RollingGiant (deprecated and not working afaik), Loadstone (Deprecated and no longer needed).
+- Removed: RollingGiant (deprecated and not working afaik), Loadstone (Deprecated and no longer needed), LCSoundTool, Backrooms, LobbyCompatiblity (seems to no longer work).
 - Added: DestroyItemInSlotFix, SmartEnemyPathfinding, LethalNetworkAPI, WaterGunLib,
+- Swapped: 
+    - RealBackroomsPatch -> Backrooms Renewed (RIP OG backrooms). I think renewed is still slightly buggy though.
+    - SCPFoundationDungeon -> ~~SCPFoundationDungeonPatched~~ Site112 (All SCPFD variants seem to be broken)
+    - ReviveCompany -> ReviveCompany Patched (fingers crossed)
+    - 4x BeanieBe interiors -> 1x BeanieBe Interiors (which has all 6 of his interiors)
+- Calling it now, I will need a patch of shame.
 
 ## v0.8.3
 - Updated several packages
