@@ -1,3 +1,12 @@
+## v0.9.0
+- Updated many, many packages
+- Removed: RollingGiant (deprecated and not working afaik), Loadstone (Deprecated and no longer needed).
+- Added: DestroyItemInSlotFix, SmartEnemyPathfinding, LethalNetworkAPI, WaterGunLib,
+
+## v0.8.3
+- Updated several packages
+I plan on redoing many of the configs which have changed since I last did it as soon as I get some time. Also will likely add some new mods shortly.
+
 ## v0.8.2
 - Explicitly added several dependents of dependents to ensure smooth updates
 - Updated several smaller mods. Not many new features, although D.U.L.L has added a new interior.
